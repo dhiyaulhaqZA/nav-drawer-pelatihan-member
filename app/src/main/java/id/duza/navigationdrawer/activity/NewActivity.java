@@ -1,8 +1,10 @@
-package id.duza.navigationdrawer;
+package id.duza.navigationdrawer.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
+
+import id.duza.navigationdrawer.R;
 
 public class NewActivity extends AppCompatActivity {
 
